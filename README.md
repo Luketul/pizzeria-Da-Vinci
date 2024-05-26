@@ -1,2 +1,2 @@
 # pizzeria-Da-Vinci
-ten plik należy do gałęzi vege.
+To jest strona naszej pizzerii.
