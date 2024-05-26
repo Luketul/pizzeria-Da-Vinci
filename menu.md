@@ -10,8 +10,20 @@
 |2. | VESUVIO (sos pomidorowy, szynka, ser, oregano)                                        |                     |25zł  |32zł  |40zł  |
 |3. | SALAMI (sos pomidorowy, salami, ser, oregano)                                         |                     |27zł  |35zł  |42zł  |
 |4. | POMODORE (sos pomidorowy, szynka, ser, pomidory, pieczarki, oregano)                  |                     |30zł  |35zł  |45zł  |
-|5. |HAWAJSKA (sos pomidorowy, ananas, szynka, ser, oregano)                                |                     |27zł  |35zł  |42zł  |
+|5. | HAWAJSKA (sos pomidorowy, ananas, szynka, ser, oregano)                               |                     |27zł  |35zł  |42zł  |
 |6. | KEBAB (sos pomidorowy, kebab, ogórek, pomidor, sałata lodowa, oregano, sos czosnkowy) |                     |35zł  |45zł  |55zł  |
+
+## Pizze Wegetariańskie
+
+<img src ="img/pizzavege.jpg" height=500 width=500>
+
+|NR.|Nazwa:|                                                                                 rozmiar:|             30cm|   50cm|  60cm |
+|---|---------------------------------------------------------------------------------------|---------------------|------|------|------|
+|1. | MARGHERITA (sos pomidorowy,ser,oregano)                                               |                     |20zł  |25zł  |32zł  |
+|2. | POMODORE (sos pomidorowy, ser, pomidory, pieczarki, oregano)                          |                     |30zł  |35zł  |45zł  |
+|3. | HAWAJSKA VEGE (sos pomidorowy, ananas, ser, oregano)                                  |                     |27zł  |35zł  |42zł  |
+
+
 
 ## Pizza Calzone
 
@@ -19,9 +31,18 @@
 
 |NR.|Nazwa:|                                                                                 rozmiar:|             30cm|   50cm|  60cm |
 |---|---------------------------------------------------------------------------------------|---------------------|------|------|------|
-|1. | Bolognese (sos bolognese,ser,oregano)                                                 |                     |35zł  |45zł  |55zł  |
+|1. | Napoli (sos pomidorowy,ser,cebula,oregano)                                            |                     |35zł  |45zł  |55zł  |
 |2. | Grecka (sos pomidorowy,ser,oliwki,feta,)                                              |                     |35zł  |45zł  |55zł  |
-|3. | Barbeque (sos pomidorowy, kurczak, ser, boczek,cebula)                                |                     |27zł  |35zł  |42zł  |
+
+## Sałatki
+
+<img src ="img/sałatki.jpg" height=300 width=500>
+
+|NR.|Nazwa:|                                                                                 porcja:|             500g|   800g| 
+|---|---------------------------------------------------------------------------------------|---------------------|------|------|
+|1. | Sałatka Hiszpańska (sałata, cebula, oliwa z oliwek, pomidor, oliwki, mozarella)       |                     |36zł  |45zł  |
+|2. | Sałatka Grecka (sałata, cebula, oliwa z oliwek,pomidor, oliwki, feta)                                            |                     |35zł  |41zł  |
+|3. | Sałatka Cesar (sałata, cebula, oliwa z oliwek, pomidor)                               |                     |33zł  |37zł  |
 
 
 ## Makarony
@@ -30,9 +51,8 @@
 
 |NR.|Nazwa:|                                                                                 porcja:|             500g|   800g| 
 |---|---------------------------------------------------------------------------------------|---------------------|------|------|
-|1. | Spaghetti Bolognese (makaron z sosem bolońskim)                                       |                     |30zł  |38zł  |
-|2. | Spaghetti Bolonia (makaron z sosem bolońskim)                                         |                     |35zł  |40zł  |
-|3. | Spaghetti Carbonara (makaron z sosem carbonara)                                       |                     |35zł  |40zł  |
+|1. | Spaghetti Napolo (makaron z sosem pomidorowym z serem)                                |                     |30zł  |38zł  |
+|2. | Spaghetti Carbonara (makaron z sosem carbonara)                                       |                     |35zł  |40zł  |
 
 ## SOSY
 
