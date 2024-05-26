@@ -18,7 +18,7 @@ Tomasz Zieliński. 555-456-789. tomasz.zielinski@przyklad.pl. Kuchnia włoska
 
 ## Kelnerzy
 
-Paweł Wiśniewski. 555-567-890. pawel.wisniewski@przyklad.pl
-Anna Kowalczyk. 555-678-901. anna.kowalczyk@przyklad.pl
+1.Paweł Wiśniewski. 555-567-890. pawel.wisniewski@przyklad.pl
+2.Anna Kowalczyk. 555-678-901. anna.kowalczyk@przyklad.pl
 
 
