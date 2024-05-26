@@ -14,7 +14,7 @@ Marta Kwiatkowska. 555-345-678. marta.kwiatkowska@przyklad.pl
 
 ## Kucharz
 
-Tomasz Zieliński. 555-456-789. tomasz.zielinski@przyklad.pl. Kuchnia włoska
+Tomasz Zieliński. 555-456-789. tomasz.zielinski@przyklad.pl.
 
 ## Kelnerzy
 
