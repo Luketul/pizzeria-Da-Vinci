@@ -51,4 +51,4 @@ Rozwałkuj ciasto na okrągłe placki o średnicy około 20-25 cm.
 Na jednej połowie każdego placka nałóż sos pomidorowy, mozzarellę, szynkę i pieczarki.
 Przykryj drugą połową ciasta, zlepiając brzegi dokładnie.
 Posmaruj wierzch roztrzepanym jajkiem.
-Piecz w nagrzanym piekarniku przez około 15-20 minut, aż calzone będzie złociste i chrupiące
+Piecz w nagrzanym piekarniku przez około 15-20 minut, aż calzone będzie złociste i chrupiące.
