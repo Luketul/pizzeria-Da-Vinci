@@ -23,6 +23,7 @@ Janusz Kowal nr telefonu: 555-567-012 janusz.kowal@przyklad.pl
 Paweł Wiśniewski. nr.telefonu: 555-567-890 pawel.wisniewski@przyklad.pl    
 Anna Kowalczyk nr.telefonu: 555-678-901 anna.kowalczyk@przyklad.pl  
 Marcin Nowak nr telefonu: 555-789-234 marcin.nowak@przyklad.pl  
+Monika Lewandowska nr telefonu: 555-890-345 monika.lewandowska@przyklad.pl
 
 
 
