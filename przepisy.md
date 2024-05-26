@@ -25,7 +25,8 @@ Składniki:
 
 400 g mąki typu 00    
 4 duże jajka    
-1 łyżeczka soli    
+1 łyżeczka soli 
+
 Sposób przygotowania:    
 
 Na czystym blacie kuchennym utwórz kopczyk z mąki, a następnie zrób w nim zagłębienie.
@@ -44,6 +45,7 @@ Ciasto do pizzy (przepis powyżej)
 100 g szynki, pokrojonej w kostkę  
 100 g pieczarek, pokrojonych w plastry  
 1 jajko, roztrzepane (do posmarowania)  
+
 Sposób przygotowania:  
 
 Rozgrzej piekarnik do 220°C.
