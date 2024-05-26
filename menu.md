@@ -15,7 +15,7 @@
 
 ## Pizze Wegetariańskie
 
-<img src ="img/pizzavege.jpg" height=500 width=500>
+<img src ="img/pizzavege.jpg" height=700 width=500>
 
 |NR.|Nazwa:|                                                                                 rozmiar:|             30cm|   50cm|  60cm |
 |---|---------------------------------------------------------------------------------------|---------------------|------|------|------|
