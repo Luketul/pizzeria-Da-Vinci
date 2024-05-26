@@ -6,3 +6,7 @@
 
 ## Grafik
 
+## Kucharz
+
+## Kelnerzy
+
