@@ -19,6 +19,6 @@ Tomasz Zieliński nr.telefonu: 555-456-789 tomasz.zielinski@przyklad.pl.
 ## Kelnerzy
 
 1.Paweł Wiśniewski. nr.telefonu: 555-567-890 pawel.wisniewski@przyklad.pl  
-2.Anna Kowalczyk nr.telefonu: 555-678-901 anna.kowalczyk@przyklad.pl  
+2.Anna Kowalczyk nr.telefonu: 555-678-901 anna.kowalczyk@przyklad.pl    
 
 
