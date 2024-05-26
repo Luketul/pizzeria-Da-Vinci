@@ -6,7 +6,8 @@ Anna Nowak nr.telefonu: 555-123-456 anna.nowak@przyklad.pl
 
 ## Dostawca
 
-Firma ABC - Jan Kowalski nr.telefonu: 555-234-567 jan.kowalski@abc.pl
+Firma ABC - Jan Kowalski nr.telefonu: 555-234-567 jan.kowalski@abc.pl  
+Firma XYZ - Katarzyna Nowak nr telefonu: 555-678-123 katarzyna.nowak@xyz.pl  
 
 ## Grafik
 
