@@ -41,7 +41,7 @@
 |NR.|Nazwa:|                                                                                 porcja:|             500g|   800g| 
 |---|---------------------------------------------------------------------------------------|---------------------|------|------|
 |1. | Sałatka Hiszpańska (sałata, cebula, oliwa z oliwek, pomidor, oliwki, mozarella)       |                     |36zł  |45zł  |
-|2. | Sałatka Grecka (sałata, cebula, oliwa z oliwek,pomidor, oliwki, feta)                                            |                     |35zł  |41zł  |
+|2. | Sałatka Grecka (sałata, cebula, oliwa z oliwek,pomidor, oliwki, feta)                 |                     |35zł  |41zł  |
 |3. | Sałatka Cesar (sałata, cebula, oliwa z oliwek, pomidor)                               |                     |33zł  |37zł  |
 
 
