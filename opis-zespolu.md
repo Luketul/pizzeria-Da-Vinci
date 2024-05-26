@@ -15,7 +15,7 @@ Marta Kwiatkowska nr.telefonu: 555-345-678 marta.kwiatkowska@przyklad.pl
 
 ## Kucharz
 
-Tomasz Zieliński nr.telefonu: 555-456-789 tomasz.zielinski@przyklad.pl.
+Tomasz Zieliński nr.telefonu: 555-456-789 tomasz.zielinski@przyklad.pl
 
 ## Kelnerzy
 
